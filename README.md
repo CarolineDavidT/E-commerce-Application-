@@ -1,6 +1,6 @@
 # Formula 1 Ecommerce
 
-JavaFX + SQLite implementation for the customer component of the NC1605 e-commerce system.
+JavaFX + SQLite implementation for the customer component.
 
 ## Eclipse setup
 
